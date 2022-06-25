@@ -1,2 +1,2 @@
-# web: node index.js
-web: cd client 
+ web: node index.js
+# web: cd client 
